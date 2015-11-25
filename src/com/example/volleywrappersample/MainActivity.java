@@ -22,7 +22,7 @@ import android.widget.TextView;
  * @author koga
  */
 public class MainActivity extends Activity implements OnClickListener {
-	private static final String API_SAMPLE = "https://dl.dropboxusercontent.com/u/34644244/prim_test2.json";
+	private static final String API_SAMPLE = "https://example.com/example.cgi";
 
 	/** Requestをキャンセルする時に使う */
 	private final static int REQUEST_TAG = 1000;
